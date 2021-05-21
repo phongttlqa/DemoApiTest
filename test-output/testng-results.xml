@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-21T16:56:20 ICT" name="Default suite" finished-at="2021-05-21T16:56:23 ICT" duration-ms="3335">
+    <groups>
+    </groups>
+    <test started-at="2021-05-21T16:56:20 ICT" name="Default test" finished-at="2021-05-21T16:56:23 ICT" duration-ms="3335">
+      <class name="main.TestApiUser">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:20 ICT" name="beforeMethod" finished-at="2021-05-21T16:56:20 ICT" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getKeyToken()[pri:1, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:20 ICT" name="getKeyToken" finished-at="2021-05-21T16:56:22 ICT" duration-ms="1976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getKeyToken -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:22 ICT" name="beforeMethod" finished-at="2021-05-21T16:56:22 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createUser()[pri:2, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:22 ICT" name="createUser" finished-at="2021-05-21T16:56:23 ICT" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="updateUser()[pri:3, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:23 ICT" name="updateUser" finished-at="2021-05-21T16:56:23 ICT" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:23 ICT" name="beforeMethod" finished-at="2021-05-21T16:56:23 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:23 ICT" name="beforeMethod" finished-at="2021-05-21T16:56:23 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="deleteUser()[pri:4, instance:main.TestApiUser@60d8c9b7]" started-at="2021-05-21T16:56:23 ICT" name="deleteUser" finished-at="2021-05-21T16:56:23 ICT" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- main.TestApiUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
